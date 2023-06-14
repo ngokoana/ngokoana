@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ngokoana
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning c
-- 💞️ I’m looking to collaborate on different activies that can help improve my coding skills
+- 🌱 I’m currently an MSc. Eng Candidate in Bioprocess engineering
+- 💞️ I’m looking to collaborate on different activities that can help improve my coding skills
 - 📫 How to reach me moks.creatives@gmail.com
 
 <!---
