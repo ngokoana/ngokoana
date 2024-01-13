@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ngokoana
-- 👀 I’m interested in data science
+- 👀 I’m interested in Data science and Engineering
 - 🌱 I’m currently an MSc. Eng Candidate in Bioprocess engineering
 - 💞️ I’m looking to collaborate on different activities that can help improve my coding skills
 - 📫 How to reach me ngokoana99@gmail.com
